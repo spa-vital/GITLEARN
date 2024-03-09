@@ -3,6 +3,8 @@
 Repository (Repo)
 Branch
 Conflict
+Local
+Remote
 
 # Commands
 - git init 
