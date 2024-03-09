@@ -13,4 +13,6 @@ Branch
 - git log --oneline
 - git checkout {branch name}
 - git branch
-- git branch -b {branch name}
+- git checkout -b {branch name}
+- git merge {branch name}
+- git branch -d {brand name}
